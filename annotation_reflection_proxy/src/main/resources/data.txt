@@ -1,0 +1,10 @@
+
+-----User-----
+id = 1
+age = 25
+name = 王五
+a = 0
+COUNTRY = 中国
+-----Person-----
+name = 张三
+sex = 男
