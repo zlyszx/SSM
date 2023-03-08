@@ -14,5 +14,7 @@ public class TestProxy {
         String s = proxy.sing("勇气");
         System.out.println(s);
         proxy.dance();
+        
+        
     }
 }
