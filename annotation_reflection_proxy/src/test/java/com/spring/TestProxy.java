@@ -16,5 +16,6 @@ public class TestProxy {
         proxy.dance();
         System.out.println("测试git1");
         System.out.println("测试分支hot-fix合并");
+        System.out.println("测试分支hot-fix冲突合并");
     }
 }
