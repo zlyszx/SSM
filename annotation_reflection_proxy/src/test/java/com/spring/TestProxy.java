@@ -13,7 +13,7 @@ public class TestProxy {
         Star proxy = ProxyUtil.createProxy(bigStar);
         String s = proxy.sing("勇气");
         System.out.println(s);
-
         proxy.dance();
+        System.out.println("测试git1");
     }
 }
